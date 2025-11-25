@@ -38,7 +38,7 @@ remove - Commits do tipo remove indicam a exclusão de arquivos, diretórios ou 
 
 # Exemplos
 
-git commit -m ":tada: Commit inicial"	🎉 Commit inicial
+git commit -m ":tada: Commit inicial"	🎉 Commit inicial\n
 git commit -m ":books: docs: Atualização do README"	📚 docs: Atualização do README
 git commit -m ":bug: fix: Loop infinito na linha 50"	🐛 fix: Loop infinito na linha 50
 git commit -m ":sparkles: feat: Página de login"	✨ feat: Página de login
