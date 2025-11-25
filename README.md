@@ -1,4 +1,4 @@
-# manual-commits
+# Manual-commits
 
 De acordo com a documentação do [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/), commits semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
 
