@@ -38,17 +38,30 @@ remove - Commits do tipo remove indicam a exclusão de arquivos, diretórios ou 
 
 # Exemplos
 
-git commit -m ":tada: Commit inicial"	🎉 Commit inicial\n
+git commit -m ":tada: Commit inicial"	🎉 Commit inicial
+
 git commit -m ":books: docs: Atualização do README"	📚 docs: Atualização do README
+
 git commit -m ":bug: fix: Loop infinito na linha 50"	🐛 fix: Loop infinito na linha 50
+
 git commit -m ":sparkles: feat: Página de login"	✨ feat: Página de login
+
 git commit -m ":bricks: ci: Modificação no Dockerfile"	🧱 ci: Modificação no Dockerfile
+
 git commit -m ":recycle: refactor: Passando para arrow functions"	♻️ refactor: Passando para arrow functions
+
 git commit -m ":zap: perf: Melhoria no tempo de resposta"	⚡ perf: Melhoria no tempo de resposta
+
 git commit -m ":boom: fix: Revertendo mudanças ineficientes"	💥 fix: Revertendo mudanças ineficientes
+
 git commit -m ":lipstick: feat: Estilização CSS do formulário"	💄 feat: Estilização CSS do formulário
+
 git commit -m ":test_tube: test: Criando novo teste"	🧪 test: Criando novo teste
+
 git commit -m ":bulb: docs: Comentários sobre a função LoremIpsum( )"	💡 docs: Comentários sobre a função LoremIpsum( )
+
 git commit -m ":card_file_box: raw: RAW Data do ano aaaa"	🗃️ raw: RAW Data do ano aaaa
+
 git commit -m ":broom: cleanup: Eliminando blocos de código comentados e variáveis não utilizadas na função de validação de formulário"	🧹 cleanup: Eliminando blocos de código comentados e variáveis não utilizadas na função de validação de formulário
+
 git commit -m ":wastebasket: remove: Removendo arquivos não utilizados do projeto para manter a organização e atualização contínua"	🗑️ remove: Removendo arquivos não utilizados do projeto para manter a organização e atualização contínua
